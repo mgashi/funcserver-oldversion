@@ -1,0 +1,5 @@
+recursive-include static/js *
+recursive-include static/css *
+recursive-include static/img *
+recursive-include static/fonts *
+recursive-include templates *
