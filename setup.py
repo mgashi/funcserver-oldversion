@@ -19,8 +19,8 @@ setup(
     keywords='funcserver',
     author='Prashanth Ellina',
     author_email="Use the github issues",
-    url="https://github.com/mgashi/funcserver",
-    download_url="https://github.com/deep-compute/funcserver/tarball/%s" % version,
+    url="https://github.com/mgashi/funcserver-oldversion.git",
+    download_url="https://github.com/mgashi/funcserver-oldversion.git",
     license='MIT License',
     install_requires=[
         'gevent',
