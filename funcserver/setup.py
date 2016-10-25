@@ -20,7 +20,7 @@ setup(
     author='Prashanth Ellina',
     author_email="Use the github issues",
     url="https://github.com/mgashi/funcserver-oldversion",
-    download_url="https://github.com/mgashi/funcserver-oldversion.git",
+    download_url="https://github.com/mgashi/funcserver-oldversion",
     license='MIT License',
     install_requires=[
         'gevent',
@@ -34,7 +34,7 @@ setup(
     packages=find_packages('.'),
     include_package_data=True,
     classifiers=[
-        "Programming Language :: Python :: 1.1",
+        "Programming Language :: Python :: 2.7",
         "Environment :: Console",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
