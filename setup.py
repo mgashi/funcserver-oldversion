@@ -10,7 +10,7 @@ except:
     Make sure pypandoc is installed.
     """
 
-version = '0.1.1'
+version = '0.2.1'
 setup(
     name="funcserver",
     version=version,
@@ -19,8 +19,8 @@ setup(
     keywords='funcserver',
     author='Prashanth Ellina',
     author_email="Use the github issues",
-    url="https://github.com/mgashi/funcserver-oldversion",
-    download_url="https://github.com/mgashi/funcserver-oldversion.git",
+    url="https://github.com/mgashi/funcserver",
+    download_url="https://github.com/deep-compute/funcserver/tarball/%s" % version,
     license='MIT License',
     install_requires=[
         'gevent',
