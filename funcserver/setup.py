@@ -20,7 +20,7 @@ setup(
     author='Prashanth Ellina',
     author_email="Use the github issues",
     url="https://github.com/mgashi/funcserver-oldversion",
-    download_url="https://github.com/mgashi/funcserver-oldversion",
+    download_url="https://github.com/mgashi/funcserver-oldversion.git",
     license='MIT License',
     install_requires=[
         'gevent',
